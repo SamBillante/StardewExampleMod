@@ -1,0 +1,10 @@
+{
+    "Name": "Unprecedented UI Adjustments",
+    "Author": "Chase Fetherling, Samuel Billante",
+    "Version": "1.0.0",
+    "Description": "UI adjustments meant to keep the spirit of the game while providing useful information.",
+    "UniqueID": "chase.StardewExampleMod",
+    "EntryDll": "StardewExampleMod.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
